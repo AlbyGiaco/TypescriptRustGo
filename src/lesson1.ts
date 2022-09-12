@@ -1,6 +1,6 @@
 const a: any = [];
 const b: any = a;
 
-b.push(1);
+b.push(1):
 
 console.log(a);
