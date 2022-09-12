@@ -1,0 +1,8 @@
+{
+  "name": "TypescriptRustGo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AlbyGiaco/TypescriptRustGo.git",
+  "author": "alby.giaco <alby.giaco@live.it>",
+  "license": "MIT"
+}
