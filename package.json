@@ -5,7 +5,7 @@
   "repository": "https://github.com/AlbyGiaco/TypescriptRustGo.git",
   "author": "alby.giaco <alby.giaco@live.it>",
   "scripts": {
-    "ts-1": "ts-node src/lesson1.ts"
+    "ts-9": "ts-node src/lesson9.ts"
   },
   "license": "MIT",
   "dependencies": {
