@@ -16,7 +16,7 @@ function parseLine(line: string): [number, number] {
 
 const items = getInput()
   .split("\n")
-  .map((x) => parseLine(x))
+  .map(parseLine)
   .reduce(
     (acc, [x, y]) => {
       acc[0] += x;
